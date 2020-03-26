@@ -1,0 +1,10 @@
+---
+en:
+  onboarding:
+    hello: Hello!
+  orders:
+    add_to_basket: Add to Basket
+    confirm_order: Confirm order
+    remove_from_basket: Remove from Basket
+  logout:
+    goodby: See you later!

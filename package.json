@@ -1,0 +1,21 @@
+{
+  "name": "my-cool-plugin",
+  "version": "0.0.0",
+  "description": "coming soon...",
+  "main": "index.js",
+  "author": "Radion Chernyakov <nixololo@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "escape-string-regexp": "^2.0.0",
+    "js-yaml": "^3.13.1",
+    "ramda": "^0.26.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "scripts": {
+    "clean": "rm -rf ./dist",
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  }
+}

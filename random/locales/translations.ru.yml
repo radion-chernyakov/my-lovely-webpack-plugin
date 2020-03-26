@@ -1,0 +1,10 @@
+---
+ru:
+  onboarding:
+    hello: Привет!
+  orders:
+    add_to_basket: Добавить в корзину
+    confirm_order: Подтвердить заказ
+    remove_from_basket: Убрать из корзины
+  logout:
+    goodby: Увидимся снова!
